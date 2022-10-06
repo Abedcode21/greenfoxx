@@ -17,7 +17,7 @@ body{
 
 
 .subheader{ 
-    /* width: 100%; */
+    width: 100%;
     display: flex;
     justify-content:space-between;
     list-style-type: none;
