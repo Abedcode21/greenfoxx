@@ -101,6 +101,14 @@ body{
     justify-content: space-between;
 }
 
+/* #button {
+    height: 40px;
+    width: 200px;
+    background-color: #000000;
+    color: whitesmoke;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+} */
 .unisex{
     line-height: 2.1rem;
     font-weight: 300;
