@@ -1,0 +1,186 @@
+*{
+    box-sizing: border-box;
+}
+img {
+     max-width: 100%; 
+}
+
+.container{
+    margin: 0;
+}
+body{
+    margin:0;
+    background-color: white;
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+ }
+
+
+.subheader{ 
+    /* width: 100%; */
+    display: flex;
+    justify-content:space-between;
+    list-style-type: none;
+    background-color:white;
+}
+.abc{
+    margin-left: 20px;
+}
+.search{
+    margin-top: 10px;
+     
+    }
+.search-area{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+#bæredygtigtøj{
+    margin: 10px;
+    padding: 20px;
+}
+
+.home_image{
+    width: 100%;
+    min-height: 200px;
+    margin: 10px;
+    padding: 20px;
+    background-color: #ebebeb
+}
+
+.home_image img{
+    width: 100%;
+    object-fit: cover;
+}
+
+.text-image {
+    color:white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 100% auto;
+    text-align: center;
+    font-size: 10erm;
+}
+
+.home_image button {
+    height: 40px;
+    width: 200px;
+    text-align: center;
+    background-color: #000000;
+    color: whitesmoke;
+    font-family: 'Proxima', sans-serif;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+.rødtext h1{
+    font-size: 10erm;
+    text-align: center;
+}
+
+.home_image h1{
+    color: #799673;
+    margin-top: 150px;
+}
+
+#sor{
+    margin: 10px;
+    padding: 20px;
+}
+
+.billede img{
+    list-style-type: none;
+    border: 0;
+    /* margin: 100px; */
+    padding: 20px;
+    height: 375px;
+    width: 100%;
+    border-radius: 5%;
+    background-color: antiquewhite;   
+    margin-top: 20px;
+    justify-content: space-between;
+}
+
+.unisex{
+    line-height: 2.1rem;
+    font-weight: 300;
+    letter-spacing: 0;
+
+}
+
+#hvad{
+    margin: 10px;
+    padding: 20px;
+    background-color:#9BAC90;
+    width: 100%;
+}
+
+.part-place{
+    margin: 5px;
+    padding: 5px;
+    border: 5px;
+}
+.part-place h1{
+    font-size: 10erm;
+    text-align: center;
+}
+
+.part-place p{
+    font-size: 30px;
+    text-align: left;
+    margin: 10px;
+    padding: 20px;
+}
+
+.infomere img{
+    float:left;
+}
+
+#Jens{
+        margin: 10px;
+        padding: 20px;
+}
+.læsemere{
+    background-color:#ebebeb;
+    width: 100%;
+    margin: 10px;
+    padding: 20px;
+}
+#slut{
+    background-color:#ebebeb;
+    margin: 10px;
+    padding: 20px;
+    width: 100%;
+}
+
+#NED{
+    background-color:#BDB69F;
+        margin: 10px;
+        padding: 20px;
+        width: 100%;
+}
+
+.activ{
+    font-size: 3rem;
+    float: left;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.om{
+    font-size: 3rem;
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.Mere{
+    font-size: 3rem;
+    text-align: right;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.icon end{
+    display: flex;
+}
