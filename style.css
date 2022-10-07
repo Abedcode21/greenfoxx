@@ -144,11 +144,12 @@ body{
 
 .infomere img{
     float:left;
+    width:50%
 }
 
 #Jens{
         margin: 10px;
-        padding: 20px;
+        padding: 10px;
 }
 .læsemere{
     background-color:#ebebeb;
