@@ -25,16 +25,26 @@ body{
 #header{
     margin: 10px;
     padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+.hamgurgermenu{
+    /* float: left; */
 }
 .subheader{ 
-    width: 100%;
-    display: flex;
-    justify-content:space-between;
-    list-style-type:none;
-    background-color:white;
+        /* width: 100%; */
+        display: flex;
+        justify-content:space-between;
+        list-style-type: none;
+        background-color:white;
 }
 .abc{
-    margin-left: 20px;
+    /* margin-left: 20px; */
+}
+.hicon{
+    float: right;
+    /* margin-top: 10px; */
 }
 .search{
     margin-top: 10px;
@@ -130,7 +140,6 @@ body{
     margin: 10px;
     padding: 20px;
     background-color:#9BAC90;
-    width: 100%;
 }
 
 .part-place{
@@ -169,14 +178,12 @@ body{
     background-color:#ebebeb;
     margin: 10px;
     padding: 20px;
-    width: 100%;
 }
 
 #NED{
     background-color:#BDB69F;
         margin: 10px;
         padding: 20px;
-        width: 100%;
 }
 
 .activ{
