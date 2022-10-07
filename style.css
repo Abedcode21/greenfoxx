@@ -1,5 +1,7 @@
 *{
     box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
 }
 img {
      max-width: 100%; 
@@ -169,26 +171,33 @@ body{
 }
 
 .activ{
-    font-size: 3rem;
-    float: left;
-    text-decoration: none;
-    list-style-type: none;
-}
-
-.om{
-    font-size: 3rem;
     text-align: center;
     text-decoration: none;
     list-style-type: none;
+    text-align: left;
+}
+
+.om{
+    text-decoration: none;
+    list-style-type: none;
+    text-align: left;
 }
 
 .Mere{
-    font-size: 3rem;
-    text-align: right;
+    text-align: left;
     text-decoration: none;
     list-style-type: none;
 }
 
-.icon end{
-    display: flex;
+.sidst{
+text-align: center;
+}
+
+.bruger{
+
+}
+
+.icon{
+    display: block;
+    justify-content: space-evenly;
 }
