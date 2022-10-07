@@ -8,6 +8,8 @@ img {
 }
 .button{
     display: block;
+    margin: 0;
+    padding: 2px;
 }
 
 .container{
@@ -195,10 +197,6 @@ body{
 
 .sidst{
 text-align: center;
-}
-
-.bruger{
-
 }
 
 .icon{
